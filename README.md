@@ -1,9 +1,9 @@
 # MAT117 – Algebra & Trigonometry (Fall I 2025)
 
 **Instructor:** Prof. Iqram Hussain, PhD 
-**Department:** Mathematics, Engineering, and Computer Science (MEC), LaGuardia Community College (CUNY)  
+**Department:** Mathematics, Engineering, and Computer Science (MEC), CUNY  
 **Mode:** Online Synchronous (live via Zoom/Blackboard)  
-**Dates:** September 9 – December 19, 2025  
+ 
 
 ---
 
