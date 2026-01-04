@@ -12,7 +12,7 @@
 - **Tuesday:** 1:00 – 3:15 PM (Online Synchronous)  
 - **Thursday:** 1:00 – 3:15 PM (Online Synchronous)  
 
-⚠️ *Note: Although the course is online, at least one midterm and the final exam will be held **in person** at LaGuardia Community College.*  
+⚠️ *Note: Although the course is online, at least one midterm and the final exam will be held **in person** at CUNY Colleges.*  
 
 ---
 
@@ -67,7 +67,7 @@ We will use a free, open-source textbook from OpenStax:
 ## 👨‍🏫 Instructor Contact
 **Prof. Iqram Hussain, PhD**  
 📧 Email: [iqramhussain@gmail.com](mailto:iqramhussain@gmail.com)  
-💼 MEC Department, LaGuardia Community College  
+💼 CUNY CollegeS  
 
 ---
 
