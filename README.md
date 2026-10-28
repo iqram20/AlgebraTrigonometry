@@ -1,7 +1,7 @@
 # MAT117 – Algebra & Trigonometry (Fall I 2025)
 
 **Instructor:** Prof. Iqram Hussain, PhD 
-**Department:** Mathematics, Engineering, and Computer Science (MEC), CUNY  
+**Department:** Mathematics, Engineering, and Computer Science (MEC)
 **Mode:** Online Synchronous (live via Zoom/Blackboard)  
  
 
